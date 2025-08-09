@@ -10,3 +10,4 @@ pywin32
 pyinstaller
 tksheet
 configparser
+streamlit
