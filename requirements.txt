@@ -1,0 +1,12 @@
+customtkinter
+pandas
+xlrd
+openpyxl
+Pillow
+boto3
+CTkListbox
+cryptography
+pywin32
+pyinstaller
+tksheet
+configparser
